@@ -39,6 +39,7 @@ Sou Analista de Dados em formação, com background em tecnologia e foco em tran
 ---
 
 ### 💻 Portfólio
+🔗 https://techcalixto.com.br/
 🔗 https://portfolio-jvc.vercel.app/
 
 ---
